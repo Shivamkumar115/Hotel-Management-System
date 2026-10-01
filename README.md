@@ -70,7 +70,7 @@ JDBC is used to establish the connection between the Java application and MySQL.
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Hotel-Management-System.git
+git clone https://github.com/ShivamKumar115/Hotel-Management-System.git
 
 2. Open the Project
 
